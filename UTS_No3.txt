@@ -1,3 +1,6 @@
+git config --global user.name "DennyFajarAlvianto"
+git config --global user.email "dennyfajar257@gmail.com"
+git clone gh repo clone ardiansyah-sweng/prpl2021
 - Melihat list email dan username atau nama branch kita
 git config --list
 - Melihat riwayat perubahan
